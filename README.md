@@ -1,15 +1,3 @@
 # @most/stream
 
-Core stream type
-
-## Installing
-
-```shell
-$ npm install @most/stream
-```
-
-## API
-
-#### stream ::
-
-Write some API stuff here :)
+This repository has been superceded by [`@most/core`](https://github.com/mostjs/core), and will not be maintained.
